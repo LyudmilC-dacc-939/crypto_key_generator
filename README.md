@@ -18,14 +18,15 @@ Algorithm Options:
 ## Installation
 Clone the repository:
 
-1. git clone https://github.com/yourusername/KeyGeneratorUtility.git
+1. git clone https://github.com/LyudmilC-dacc-939/KeyGeneratorUtility.git
 cd KeyGeneratorUtility
 
 2. Add the following dependency to build.gradle.kts:
 
 dependencies {
-implementation("org.bouncycastle:bcprov-jdk15on:1.70")
+implementation("org.bouncycastle:bcprov-jdk18on:1.79")
 }
+
 3. Make sure mavenCentral() is in the repositories section:
 
 repositories {

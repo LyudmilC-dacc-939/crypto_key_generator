@@ -5,7 +5,8 @@ plugins {
 dependencies {
     implementation("org.apache.commons:commons-text")
     implementation(project(":utilities"))
-    implementation("org.bouncycastle:bcprov-jdk15on:1.70")
+    // https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk18on
+    implementation("org.bouncycastle:bcprov-jdk18on:1.79")
 
 }
 
