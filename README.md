@@ -1,4 +1,4 @@
-# jwt_key_generator
+# crypto_key_generator
 
 This Kotlin-based Key Generator Utility allows users to generate cryptographic keys using various algorithms, including HMAC, RSA, and Elliptic Curve (EC). The utility provides options for different key sizes and hash algorithms, enabling secure and flexible key generation.
 
