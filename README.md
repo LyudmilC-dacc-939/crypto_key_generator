@@ -18,8 +18,8 @@ Algorithm Options:
 ## Installation
 Clone the repository:
 
-1. git clone https://github.com/LyudmilC-dacc-939/KeyGeneratorUtility.git
-cd KeyGeneratorUtility
+1. git clone https://github.com/LyudmilC-dacc-939/jwt_key_generator.git
+cd jwt_key_generator
 
 2. Add the following dependency to build.gradle.kts:
 
